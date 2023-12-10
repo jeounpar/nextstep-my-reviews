@@ -11,6 +11,7 @@
 1. https://github.com/next-step/java-lotto/pull/3358
 2. https://github.com/next-step/java-lotto/pull/3439
 3. https://github.com/next-step/java-lotto/pull/3536
+4. https://github.com/next-step/java-lotto/pull/3556
 
 ## 사다리타기 - FP, OOP
 
