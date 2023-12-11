@@ -21,3 +21,4 @@
 ## 수강신청 - 레거시 코드 리팩터링
 
 1. https://github.com/next-step/java-lms/pull/321
+2. https://github.com/next-step/java-lms/pull/365
